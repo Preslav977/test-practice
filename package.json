@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "prettier": "3.0.2"
+  },
+  "name": "template-repository-no-webpack",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preslav977/template-repository-no-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preslav977/template-repository-no-webpack/issues"
+  },
+  "homepage": "https://github.com/Preslav977/template-repository-no-webpack#readme"
+}
